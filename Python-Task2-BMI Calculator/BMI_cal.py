@@ -266,3 +266,7 @@ class BMIApp(tk.Tk):
 if __name__ == "__main__":
     app = BMIApp()
     app.mainloop()
+
+
+#BMI Calculator 
+<img width="1207" height="585" alt="image" src="https://github.com/user-attachments/assets/c3bf0086-2e53-4f6f-be9b-ad2c03c80ea4" />
